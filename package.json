@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Carolista/modules-and-git-branching-example/issues"
   },
-  "homepage": "https://github.com/Carolista/modules-and-git-branching-example#readme"
+  "homepage": "https://github.com/Carolista/modules-and-git-branching-example#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
